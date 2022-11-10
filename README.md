@@ -57,7 +57,9 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+![image](https://github.com/NYasaswini/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/047df608e778d722dd30d1f3c128b2be3f86e2c8/WhatsApp%20Image%202022-11-10%20at%2009.06.10.jpg)
+
+
 
 
 ## Result:
